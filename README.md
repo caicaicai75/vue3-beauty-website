@@ -1,4 +1,3 @@
-# vue3-beauty-websit
 
 基于 Vue3 + TypeScript + Vite 实现的企业官网首页还原项目。
 
